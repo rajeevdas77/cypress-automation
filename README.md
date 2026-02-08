@@ -1,7 +1,7 @@
 # 🚀 Cypress Automation Framework – OrangeHRM (Real‑World)
 
 This repository contains a **real‑world Cypress automation framework** designed for beginners and professionals.
-It follows **industry best practices** and mirrors what you already built in Playwright.
+It follows **industry best practices** and mirrors what you already built in CYPRESS.
 
 ---
 
